@@ -1,0 +1,7 @@
+<style>
+    body {
+        background-image: url('background.jpg');
+        background-size: cover; /* Покрыть весь экран, сохраняя пропорции */
+        background-position: center; /* Центрировать изображение */
+    }
+</style>
